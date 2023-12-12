@@ -1,0 +1,165 @@
+[
+    {
+        "Category": "On-Site Job",
+        "PostedBy": "Tech Innovations Inc.",
+        "JobTitle": "Senior Software Engineer",
+        "PostingDate": "2023-11-05",
+        "ApplicationDeadline": "2023-12-05",
+        "SalaryRange": "$75,000 - $95,000",
+        "ApplicantsNumber": 38,
+        "ImageURL": "https://techmaniac649449135.files.wordpress.com/2021/09/senior-engineers.png"
+    },
+    {
+        "Category": "Remote Job",
+        "PostedBy": "Digital Marketing Pros",
+        "JobTitle": "Marketing Manager",
+        "PostingDate": "2023-11-06",
+        "ApplicationDeadline": "2023-12-06",
+        "SalaryRange": "$80,000 - $100,000",
+        "ApplicantsNumber": 45,
+        "ImageURL": "https://www.tirolerjobs.at/uploads/media/tirolerjobs.at/news/0001/33/thumb_32216_viewdesktop.jpg"
+    },
+    {
+        "Category": "Hybrid Job",
+        "PostedBy": "Tech Solutions Group",
+        "JobTitle": "Data Analyst",
+        "PostingDate": "2023-11-07",
+        "ApplicationDeadline": "2023-12-07",
+        "SalaryRange": "$60,000 - $80,000",
+        "ApplicantsNumber": 32,
+        "ImageURL": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Data_Analyst_Job_Description.jpg"
+    },
+    {
+        "Category": "Part-Time Job",
+        "PostedBy": "Creative Media Studios",
+        "JobTitle": "Graphic Designer",
+        "PostingDate": "2023-11-08",
+        "ApplicationDeadline": "2023-12-08",
+        "SalaryRange": "$35,000 - $45,000",
+        "ApplicantsNumber": 22,
+        "ImageURL": "https://www.springboard.com/blog/wp-content/uploads/2023/02/how-to-become-a-graphic-designer-2023-career-guide.jpeg"
+    },
+    {
+        "Category": "On-Site Job",
+        "PostedBy": "InnovateTech Solutions",
+        "JobTitle": "Project Manager",
+        "PostingDate": "2023-11-09",
+        "ApplicationDeadline": "2023-12-09",
+        "SalaryRange": "$90,000 - $110,000",
+        "ApplicantsNumber": 49,
+        "ImageURL": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Project_Manager_Job_Description.jpg"
+    },
+    {
+        "Category": "Remote Job",
+        "PostedBy": "Data Analytics Pro",
+        "JobTitle": "UX Designer",
+        "PostingDate": "2023-11-10",
+        "ApplicationDeadline": "2023-12-10",
+        "SalaryRange": "$70,000 - $90,000",
+        "ApplicantsNumber": 39,
+        "ImageURL": "https://www.forbes.com/advisor/wp-content/uploads/2022/06/UX_designer.jpeg.jpg"
+    },
+    {
+        "Category": "Hybrid Job",
+        "PostedBy": "TechWorld Innovations",
+        "JobTitle": "Software Developer",
+        "PostingDate": "2023-11-11",
+        "ApplicationDeadline": "2023-12-11",
+        "SalaryRange": "$70,000 - $90,000",
+        "ApplicantsNumber": 44,
+        "ImageURL": "https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2023/06/person-at-computer.jpeg.jpg"
+    },
+    {
+        "Category": "Part-Time Job",
+        "PostedBy": "Media Creations",
+        "JobTitle": "Content Writer",
+        "PostingDate": "2023-11-12",
+        "ApplicationDeadline": "2023-12-12",
+        "SalaryRange": "$25,000 - $35,000",
+        "ApplicantsNumber": 17,
+        "ImageURL": "https://www.careerguide.com/career/wp-content/uploads/2021/06/Content-Writer-Essential-Skills-1024x683.jpg"
+    },
+    {
+        "Category": "On-Site Job",
+        "PostedBy": "Tech Innovations Inc.",
+        "JobTitle": "Sales Representative",
+        "PostingDate": "2023-11-13",
+        "ApplicationDeadline": "2023-12-13",
+        "SalaryRange": "$45,000 - $60,000",
+        "ApplicantsNumber": 31,
+        "ImageURL": "https://www.revenue.io/wp-content/uploads/2018/04/Sales-Rep-Tool-Adoption.jpg"
+    },
+    {
+        "Category": "Remote Job",
+        "PostedBy": "Digital Marketing Pros",
+        "JobTitle": "Data Scientist",
+        "PostingDate": "2023-11-14",
+        "ApplicationDeadline": "2023-12-14",
+        "SalaryRange": "$80,000 - $100,000",
+        "ApplicantsNumber": 57,
+        "ImageURL": "https://s40424.pcdn.co/in/wp-content/uploads/2022/09/data-science.jpg.optimal.jpg"
+    },
+    {
+        "Category": "Hybrid Job",
+        "PostedBy": "Tech Solutions Group",
+        "JobTitle": "Product Manager",
+        "PostingDate": "2023-11-15",
+        "ApplicationDeadline": "2023-12-15",
+        "SalaryRange": "$85,000 - $110,000",
+        "ApplicantsNumber": 54,
+        "ImageURL": "https://www.mediabistro.com/wp-content/uploads/2017/05/Product-Manager.jpg"
+    },
+    {
+        "Category": "Part-Time Job",
+        "PostedBy": "Creative Media Studios",
+        "JobTitle": "Social Media Manager",
+        "PostingDate": "2023-11-16",
+        "ApplicationDeadline": "2023-12-16",
+        "SalaryRange": "$35,000 - $45,000",
+        "ApplicantsNumber": 19,
+        "ImageURL": "https://business.twitter.com/content/dam/business-twitter/insights/jan-2020/social-media-manager-2020.jpg.twimg.1920.jpg"
+    }
+
+
+    ,
+    {
+        "Category": "On-Site Job",
+        "PostedBy": "Ollyo limited",
+        "JobTitle": "3D Animation Desiner",
+        "PostingDate": "2023-11-01",
+        "ApplicationDeadline": "2023-12-19",
+        "SalaryRange": "$35,000 - $50,000",
+        "ApplicantsNumber": 21,
+        "ImageURL": "https://dlcdnwebimgs.asus.com/files/media/2b4b3565-8f3f-4f49-a336-52713c675179/v1/assets/image/proart/article_cover.jpg"
+    },
+    {
+        "Category": "Remote Job",
+        "PostedBy": "Programming Hero",
+        "JobTitle": "Backend Engineer",
+        "PostingDate": "2023-11-11",
+        "ApplicationDeadline": "2023-12-28",
+        "SalaryRange": "$180,000 - $250,000",
+        "ApplicantsNumber": 7,
+        "ImageURL": "https://novateus.com/blog/wp-content/uploads/2022/06/Job_PC_Software_Developer.jpg"
+    },
+    {
+        "Category": "Hybrid Job",
+        "PostedBy": "Coder Passion",
+        "JobTitle": "Project Analysist",
+        "PostingDate": "2023-11-19",
+        "ApplicationDeadline": "2023-12-29",
+        "SalaryRange": "$55,000 - $90,000",
+        "ApplicantsNumber": 14,
+        "ImageURL": "https://online.maryville.edu/wp-content/uploads/sites/97/2020/07/program-analyst-at-work-2.jpg"
+    },
+    {
+        "Category": "Part-Time Job",
+        "PostedBy": "NS IT Accademy",
+        "JobTitle": "Mobile App Developer",
+        "PostingDate": "2023-11-23",
+        "ApplicationDeadline": "2023-12-29",
+        "SalaryRange": "$85,000 - $115,000",
+        "ApplicantsNumber": 19,
+        "ImageURL": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Building-a-career-in-Mobile-App-Development.jpg"
+    }
+]
